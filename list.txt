@@ -1,7 +1,0 @@
-https://www.weather.gov/dvn/&jstrue&pictrue
-https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499999997&jstrue&pictrue
-https://notthebee.com/&jsfalse&pictrue
-https://thebooktreasure.com/news/&jstrue&pictrue
-https://thebooktreasure.com/sermons/&jstrue&pictrue
-https://thebooktreasure.com/music/&jstrue&pictrue
-https://safe.duckduckgo.com&jsfalse&pictrue
