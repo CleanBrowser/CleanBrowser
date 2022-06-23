@@ -3,3 +3,6 @@ oann.com
 afn.net
 notthebee.com
 dailywire.com
+usnews.com
+apnews.com
+reuters.com
