@@ -23,6 +23,11 @@ dailywire.com
 usnews.com
 apnews.com
 reuters.com
+who13.com
+kcrg.com
+desmoinesregister.com
+kcci.com
+kwwl.com
 //////////socials/////////
 facebook.com
 gab.com
@@ -73,7 +78,5 @@ shopgoodwill.com
 //////////utilities/////////
 yelp.com
 yellowpages.com
-edmunds.com
-kbb.com
 //////////wildcards/////////
 .gov
