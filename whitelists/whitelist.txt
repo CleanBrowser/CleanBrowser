@@ -73,5 +73,7 @@ shopgoodwill.com
 //////////utilities/////////
 yelp.com
 yellowpages.com
+edmunds.com
+kbb.com
 //////////wildcards/////////
 .gov
