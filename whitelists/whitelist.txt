@@ -28,9 +28,6 @@ facebook.com
 gab.com
 linkedin.com
 //////////stores/////////
-walmart.com
-amazon.com
-target.com
 fareway.com
 aldi.us
 hy-vee.com
