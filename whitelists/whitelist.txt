@@ -78,5 +78,12 @@ shopgoodwill.com
 //////////utilities/////////
 yelp.com
 yellowpages.com
+github.com
+paypal.com
+live.com
+office.com
+skype.com
+gmail.com
+outlook.com
 //////////wildcards/////////
 .gov
