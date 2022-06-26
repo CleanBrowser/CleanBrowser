@@ -4,6 +4,7 @@ gutenberg.org
 merriam-webster.com
 britannica.com
 worldhistory.org
+Wiki.kidzsearch.com
 //////////ministries/////////
 aomin.org
 founders.org
