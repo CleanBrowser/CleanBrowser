@@ -71,5 +71,3 @@ gmail.com
 outlook.com
 //////////wildcards/////////
 .gov
-/////////Youtubes//////////
-https://www.youtube.com/imdb
