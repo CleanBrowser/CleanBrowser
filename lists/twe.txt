@@ -18,7 +18,7 @@ https://founders.org/library/1689-confession/&jstrue&pictrue
 https://gotquestions.blog&jstrue&pictrue
 https://gty.org&jstrue&pictrue
 https://hwtreasure.com/&jstrue&pictrue
-https://notthebee.com/&jsfalse&pictrue
+https://notthebee.com&jsfalse&pictrue
 https://thebooktreasure.com/&jstrue&pictrue
 https://thebooktreasure.com/clean-browser/&jstrue&pictrue
 https://thebooktreasure.com/news/&jstrue&pictrue
