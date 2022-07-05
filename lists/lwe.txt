@@ -14,6 +14,7 @@ https://founders.org/library/1689-confession/&jstrue&pictrue
 https://gty.org&jstrue&pictrue
 https://hwtreasure.com/&jstrue&pictrue
 https://notthebee.com/&jsfalse&pictrue
+https://thebooktreasure.com/clean-browser/&jstrue&pictrue
 https://thebooktreasure.com/news/&jstrue&pictrue
 https://thebooktreasure.com/sermons/&jstrue&pictrue
 https://thebooktreasure.com/music/&jstrue&pictrue
@@ -27,4 +28,3 @@ https://youtube.com/playlist?list=PLmo8sihYO3ZC2KNemTTL6LCPCPXmh9Nld
 https://youtube.com/playlist?list=OLAK5uy_l0ZJj2zvJCb6N4AYVm6oIN7IBQzcxRIGo
 https://youtube.com/playlist?list=OLAK5uy_lzosonsZyLhF-tCpsfGiyvO312iQXFbsY
 https://youtube.com/playlist?list=OLAK5uy_khPMBz62eo-F_yyRDSMrygfajee2gLbaY
-https://m.youtube.com/watch?v=9Ge7aOBDlUA
