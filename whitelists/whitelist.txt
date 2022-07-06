@@ -42,6 +42,7 @@ eastcentraliowanews.com
 lifesitenews.com
 //////////socials/////////
 facebook.com
+youtube.com/?safe=strict
 //////////stores/////////
 fareway.com
 aldi.us
