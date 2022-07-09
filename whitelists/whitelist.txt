@@ -1,5 +1,4 @@
 //////////educational/////////
-stackoverflow.com
 gutenberg.org
 merriam-webster.com
 britannica.com
