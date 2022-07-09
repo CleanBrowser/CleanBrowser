@@ -2,7 +2,6 @@ https://safe.duckduckgo.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
 https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499999997&jstrue&pictrue
-https://aomin.org&jstrue&pictrue
 https://gutenberg.org&jstrue&pictrue
 https://founders.org/&jstrue&pictrue
 https://gotquestions.org&jstrue&pictrue
@@ -13,4 +12,5 @@ https://thebooktreasure.com/news/&jstrue&pictrue
 https://thebooktreasure.com/sermons/&jstrue&pictrue
 https://youtu.be/TCSUKIhjevo
 https://www.youtube.com/channel/UCmrVJGUS1u5-Hsm_BFS_1YA
+https://www.youtube.com/channel/UCneKpMu9SFGlt2usTdAI75A
 https://www.youtube.com/watch?v=ZKFwQFBwQFU
