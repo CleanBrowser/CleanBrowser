@@ -16,8 +16,6 @@ https://notthebee.com/&jsfalse&pictrue
 https://thebooktreasure.com/news/&jstrue&pictrue
 https://thebooktreasure.com/sermons/&jstrue&pictrue
 https://unshackled.org&jstrue&pictrue
-https://amazon.com&jstrue&pictrue
-https://walmart.com&jstrue&pictrue
 https://www.youtube.com/watch?v=nzP_HAvaH4w
 https://www.youtube.com/watch?v=PjjSp6OVOGU
 https://www.youtube.com/watch?v=2YoS80XBG2o
