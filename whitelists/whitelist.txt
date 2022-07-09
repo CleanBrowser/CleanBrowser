@@ -77,7 +77,6 @@ paypal.com
 live.com
 office.com
 skype.com
-gmail.com
 outlook.com
 cisco.com
 //////////wildcards/////////
