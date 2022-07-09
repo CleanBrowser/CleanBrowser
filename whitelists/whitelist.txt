@@ -79,5 +79,6 @@ office.com
 skype.com
 outlook.com
 cisco.com
+drive.google.com
 //////////wildcards/////////
 .gov
