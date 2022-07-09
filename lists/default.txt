@@ -1,5 +1,5 @@
 https://www.weather.gov/&jstrue&pictrue
-https://notthebee.com/&jsfalse&pictrue
+https://gty.org/&jstruepictrue
 https://thebooktreasure.com/news/&jstrue&pictrue
 https://www.google.com/maps&jstrue&pictrue
 https://youtu.be/TCSUKIhjevo
