@@ -82,5 +82,6 @@ outlook.com
 cisco.com
 drive.google.com
 googleusercontent.com
+wix.com
 //////////wildcards/////////
 .gov
