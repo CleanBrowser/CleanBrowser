@@ -29,7 +29,7 @@ https://unshackled.org&jstrue&pictrue
 https://godaddy.com/&jstrue&pictrue
 https://gracegems.org&jstrue&pictrue
 https://puritanboard.com&jstrue&pictrue
-https://www.thecleanbrowser.com&jstrue&pictrue
+https://thecleanbrowser.com&jstrue&pictrue
 https://github.com&jstrue&pictrue
 https://github.com/CleanBrowser/CleanBrowser/edit/main/lists/twe.txt&jstrue&pictrue
 https://www.youtube.com/user/degarmoandkey
