@@ -90,5 +90,6 @@ outlook.com
 cisco.com
 drive.google.com
 googleusercontent.com
+F-droid.org
 //////////wildcards/////////
 .gov
