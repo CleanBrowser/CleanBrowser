@@ -52,7 +52,6 @@ cnsnews.com
 //////////socials/////////
 facebook.com
 //////////stores/////////
-manage.my.chick-fil-a.com/
 chick-fil-a.com
 fareway.com
 aldi.us
@@ -92,6 +91,5 @@ outlook.com
 cisco.com
 drive.google.com
 googleusercontent.com
-google.com/url?q=
 //////////wildcards/////////
 .gov
