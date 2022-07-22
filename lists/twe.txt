@@ -1,4 +1,5 @@
 https://safe.duckduckgo.com&jsfalse&pictrue
+https://safebrowsing.google.com&jsfalse&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
@@ -67,3 +68,4 @@ https://www.youtube.com/playlist?list=PLM_BDtTdJWhId_Zqi2CaozmA47hkeeWza
 https://www.youtube.com/playlist?list=PLEJr400yAn69Z-aez9ORfCrN5CxrvLGIq
 https://m.youtube.com/watch?v=kbQPbDNkszw
 https://youtube.com/watch?v=39PFdznRJSA
+https://www.youtube.com/channel/UCJPbavOF0FYx3ECbT8Rmv7Q
