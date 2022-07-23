@@ -1,4 +1,5 @@
 https://safe.duckduckgo.com&jsfalse&pictrue
+https://www.ghacks.net/2009/10/07/perform-plain-google-searches-without-video-image-and-news-results&jsfalse&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
