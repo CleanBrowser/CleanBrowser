@@ -1,4 +1,5 @@
 https://safe.duckduckgo.com&jsfalse&pictrue
+https://google.com&jstrue&picfalse
 https://wiki.kidzsearch.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
