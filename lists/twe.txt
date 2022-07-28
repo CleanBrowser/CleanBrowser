@@ -1,7 +1,7 @@
 https://safe.duckduckgo.com&jsfalse&pictrue
 https://cse.google.com/cse?cx=87c48ba96b5434d08&jstrue&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
-https://music.youtube.com&jsfalse&picfalse
+https://music.youtube.com&jstrue&picfalse
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
 https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499999997&jstrue&pictrue
