@@ -72,6 +72,7 @@ rockauto.com
 carquest.com
 acdelco.com
 //////////utilities/////////
+fixya.com
 edmunds.com
 consumerreports.org
 realtor.com
