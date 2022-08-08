@@ -72,6 +72,8 @@ rockauto.com
 carquest.com
 acdelco.com
 //////////utilities/////////
+edmunds.com
+consumerreports.org
 realtor.com
 yelp.com
 yellowpages.com
