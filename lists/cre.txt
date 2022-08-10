@@ -19,7 +19,6 @@ https://ellerslie.com/music/&jstrue&pictrue
 https://unshackled.org&jstrue&pictrue
 https://amazon.com&jstrue&pictrue
 https://walmart.com&jstrue&pictrue
-https://m.youtube.com/watch?v=iP99sxm-7IM
 https://www.youtube.com/playlist?list=PL0ONU3wVC9D123y0bDlC0rHnYDzaBPzXA
 https://www.youtube.com/playlist?list=PL0ONU3wVC9D00QyxgigjcRkSGU8EnoN5v
 https://www.youtube.com/playlist?list=PL0ONU3wVC9D0Y88aWMXBahnCXHMDAdRfY
@@ -32,8 +31,6 @@ https://www.youtube.com/playlist?list=OLAK5uy_nrhKpzPCmpxRp918sYRvOMsHVQ2nTWGns
 https://www.youtube.com/playlist?list=OLAK5uy_nsOa3KU8WO1TZTxqjMarMC6ESQDNc60pc
 https://www.youtube.com/playlist?list=OLAK5uy_lfH6rRMU_pocO_txNBpdp4xJv_6-cnVdU
 https://www.youtube.com/playlist?list=OLAK5uy_nKgAR2bykVhVSVlsVJ1HNf8xSQoYfo0lY
-https://www.youtube.com/watch?v=SSo-KW64O0o
-https://www.youtube.com/watch?v=MRvKL8FnrtU
 https://www.youtube.com/playlist?list=OLAK5uy_nPdh5042XKijSSCFjbMuQPRowE9-nFKQU
 https://www.youtube.com/playlist?list=OLAK5uy_nmin57k_L6bJ7nSjPHymrXiX2m3qWSxC0
 https://www.youtube.com/playlist?list=OLAK5uy_nxTSodqlxLDoQi75jcU3ZhT8jYAEGB2xU
