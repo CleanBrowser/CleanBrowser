@@ -93,5 +93,6 @@ outlook.com
 cisco.com
 drive.google.com
 googleusercontent.com
+authy.com
 //////////wildcards/////////
 .gov
