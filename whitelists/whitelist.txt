@@ -78,7 +78,7 @@ rockauto.com
 carquest.com
 acdelco.com
 //////////utilities/////////
-uhaul com
+uhaul.com
 fixya.com
 edmunds.com
 consumerreports.org
