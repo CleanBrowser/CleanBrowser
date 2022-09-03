@@ -95,5 +95,7 @@ cisco.com
 drive.google.com
 googleusercontent.com
 authy.com
+chrt.fm
+buzzsprout.com
 //////////wildcards/////////
 .gov
