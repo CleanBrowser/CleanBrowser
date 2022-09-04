@@ -13,6 +13,7 @@ https://gutenberg.org&jstrue&pictrue
 https://founders.org/&jstrue&pictrue
 https://ebay.com&jstrue&pictrue
 https://amazon.com&jstrue&pictrue
+https://waterloo.craigslist.org/&jstrue&pictrue
 https://cedarrapids.craigslist.org/&jstrue&pictrue
 https://gotquestions.org&jstrue&pictrue
 https://founders.org/library/1689-confession/&jstrue&pictrue
