@@ -99,5 +99,6 @@ googleusercontent.com
 authy.com
 chrt.fm
 buzzsprout.com
+scorecr.org
 //////////wildcards/////////
 .gov
