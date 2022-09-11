@@ -100,5 +100,6 @@ authy.com
 chrt.fm
 buzzsprout.com
 score.org
+gofundme.org
 //////////wildcards/////////
 .gov
