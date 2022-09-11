@@ -102,5 +102,5 @@ buzzsprout.com
 score.org
 gofund.me
 gofundme.com
-//////////wildcards//////////
+//////////wildcards///////////
 .gov
