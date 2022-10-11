@@ -3,6 +3,7 @@ https://cse.google.com/cse?cx=87c48ba96b5434d08&jstrue&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
+https://radar.weather.gov/station/kdvn/standard&jstrue&pictrue
 https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499999997&jstrue&pictrue
 https://facebook.com&jstrue&pictrue
 https://stackoverflow.com&jstrue&pictrue
