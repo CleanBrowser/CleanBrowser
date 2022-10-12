@@ -12,7 +12,7 @@ allinonehighschool.com
 /////////redirects///////////
 about.com
 dotdash.com
-dotdashmerideth.com
+dotdashmeridith.com
 //////////ministries/////////
 bibleref.com
 compellingtruth.org
