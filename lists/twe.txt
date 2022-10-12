@@ -12,7 +12,6 @@ https://aomin.org&jstrue&pictrue
 https://gutenberg.org&jstrue&pictrue
 https://www.kirkwood.edu&jstrue&pictrue
 https://founders.org/&jstrue&pictrue
-https://ebay.com&jstrue&pictrue
 https://www.hobbylobby.com&jstrue&pictrue
 https://www.michaels.com/&jstrue&pictrue
 https://craigslist.org/&jstrue&pictrue
