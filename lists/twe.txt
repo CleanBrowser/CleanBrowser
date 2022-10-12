@@ -41,6 +41,7 @@ https://farmandfleet.com&jstrue&pictrue
 https://theisens.com&jstrue&pictrue
 https://indeed.com&jstrue&pictrue
 https://jellybeantelevision.com&jstrue&pictrue
+https://useboomerang.com/spin&jstrue&pictrue
 https://github.com&jstrue&pictrue
 https://github.com/CleanBrowser/CleanBrowser/edit/main/lists/twe.txt&jstrue&pictrue
 https://www.youtube.com/playlist?list=PLw8HspeHTBxH8G2bBxmGlKH3oqhG439bz
