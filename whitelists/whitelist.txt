@@ -9,8 +9,10 @@ overdrive.com
 myepassignments.com
 allinonehomeschool.com
 allinonehighschool.com
+/////////redirects///////////
 about.com
 dotdash.com
+dotdashmerideth.com
 //////////ministries/////////
 bibleref.com
 compellingtruth.org
