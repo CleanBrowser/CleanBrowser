@@ -1,7 +1,6 @@
 https://safe.duckduckgo.com&jsfalse&pictrue
 https://cse.google.com/cse?cx=87c48ba96b5434d08&jstrue&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
-https://facebook.com&jsfalse&picfalse
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
 https://radar.weather.gov/station/kdvn/standard&jstrue&pictrue
@@ -37,7 +36,6 @@ https://puritanboard.com&jstrue&pictrue
 https://farmandfleet.com&jstrue&pictrue
 https://theisens.com&jstrue&pictrue
 https://indeed.com&jstrue&pictrue
-https://ebay.com&jstrue&pictrue
 https://github.com&jstrue&pictrue
 https://github.com/CleanBrowser/CleanBrowser/edit/main/lists/twe.txt&jstrue&pictrue
 https://www.youtube.com/playlist?list=PLw8HspeHTBxH8G2bBxmGlKH3oqhG439bz
