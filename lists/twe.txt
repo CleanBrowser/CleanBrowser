@@ -35,8 +35,6 @@ https://puritanboard.com&jstrue&pictrue
 https://farmandfleet.com&jstrue&pictrue
 https://theisens.com&jstrue&pictrue
 https://indeed.com&jstrue&pictrue
-https://github.com&jstrue&pictrue
-https://github.com/CleanBrowser/CleanBrowser/edit/main/lists/twe.txt&jstrue&pictrue
 https://www.youtube.com/playlist?list=PLw8HspeHTBxH8G2bBxmGlKH3oqhG439bz
 https://www.youtube.com/playlist?list=OLAK5uy_n9j9gUmd0qTgBq_p-bqHNyc0YkDpGmPPc
 https://www.youtube.com/playlist?list=OLAK5uy_ldrNP_QxqL-SBfQPTsZq5RscKGDn6oHXo
