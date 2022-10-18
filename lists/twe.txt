@@ -8,7 +8,6 @@ https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499
 https://stackoverflow.com&jstrue&pictrue
 https://pluggedin.com/&jstrue&pictrue
 https://mrctv.org/&jstrue&pictrue
-https://facebook.com/&jstrue&pictrue
 https://aomin.org&jstrue&pictrue
 https://gutenberg.org&jstrue&pictrue
 https://www.kirkwood.edu&jstrue&pictrue
