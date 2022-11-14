@@ -129,7 +129,6 @@ gofundme.com
 watchagtv.com
 //////////wildcards////////////
 .gov
-.org
 //////////youtube/////////////
 https://www.youtube.com/thewayofthemaster
 https://www.youtube.com/howitshouldhaveended
