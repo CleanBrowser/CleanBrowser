@@ -57,6 +57,11 @@ christiananswers.net
 lockman.org
 masters.edu
 askdrbrown.org
+air1.com
+klove.com
+moodyradio.org
+familyradio.org
+christianradio.com
 //////////news/////////
 oann.com
 afn.net
@@ -70,7 +75,6 @@ kwwl.com
 kgan.com
 kcrg.com
 kcci.com
-iowa.arrests.org
 cbs2iowa.com
 //////////socials/////////
 linkedin.com
