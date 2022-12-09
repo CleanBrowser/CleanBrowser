@@ -134,7 +134,6 @@ watchagtv.com
 //////////wildcards////////////
 .gov
 /////////youtube///////////
-//////////youtube/////////////
 https://www.youtube.com/thewayofthemaster
 https://www.youtube.com/howitshouldhaveended
 https://www.youtube.com/user/TobyMacVEVO
