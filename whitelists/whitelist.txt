@@ -1,5 +1,4 @@
 //////////educational/////////
-gutenberg.org
 merriam-webster.com
 britannica.com
 worldhistory.org
