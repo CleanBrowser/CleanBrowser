@@ -1,14 +1,12 @@
-https://cse.google.com/cse?cx=5388cbb524ab34b76&jstrue&pictrue
+https://weather.gov/dvn/&jstrue&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
-https://weather.gov/dvn/&jstrue&pictrue
 https://radar.weather.gov/station/kdvn/standard&jstrue&pictrue
 https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499999997&jstrue&pictrue
 https://stackoverflow.com&jstrue&pictrue
 https://pluggedin.com/&jstrue&pictrue
 https://mrctv.org/&jstrue&pictrue
 https://aomin.org&jstrue&pictrue
-https://gutenberg.org&jstrue&pictrue
 https://www.kirkwood.edu&jstrue&pictrue
 https://founders.org/&jstrue&pictrue
 https://www.hobbylobby.com&jstrue&pictrue
