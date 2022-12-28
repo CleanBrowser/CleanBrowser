@@ -1,4 +1,5 @@
 https://weather.gov/dvn/&jstrue&pictrue
+https://google.com/&jstrue&pictrue
 https://wiki.kidzsearch.com&jsfalse&pictrue
 https://weather.gov&jstrue&pictrue
 https://radar.weather.gov/station/kdvn/standard&jstrue&pictrue
