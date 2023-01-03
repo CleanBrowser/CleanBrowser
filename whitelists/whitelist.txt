@@ -147,7 +147,7 @@ score.org
 gofund.me
 gofundme.com
 watchagtv.com
-////////////money////////////
+////////////money///////////
 bloomberg.com
 finance.yahoo.com
 cnbc.com
@@ -159,7 +159,7 @@ fidelity.com
 investor.vanguard.com
 foxbusiness.com/category/stocks
 us.etrade.com/home
-///////////cars//////////////
+///////////cars/////////////
 cars.com
 carmax.com
 autotrader.com
