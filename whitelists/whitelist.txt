@@ -82,6 +82,7 @@ wng.org
 newsmaxtv.com
 newsmax.com
 theblaze.com
+dailywire.com
 //////////medical/////////
 webmd.com
 mayoclinic.org
