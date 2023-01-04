@@ -76,7 +76,11 @@ kgan.com
 kcrg.com
 kcci.com
 cbs2iowa.com
-reuters.com
+cbn.com
+christiantoday.com
+wng.org
+newsmaxtv.com
+newsmax.com
 //////////medical/////////
 webmd.com
 mayoclinic.org
