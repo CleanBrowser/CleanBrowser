@@ -76,7 +76,6 @@ kgan.com
 kcrg.com
 kcci.com
 cbs2iowa.com
-news.yahoo.com
 reuters.com
 //////////medical/////////
 webmd.com
