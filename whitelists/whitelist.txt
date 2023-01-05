@@ -125,7 +125,6 @@ familydollar.com
 fivebelow.com
 biglots.com
 walgreens.com
-costco.com
 kroger.com
 cvs.com
 //////////utilities/////////
