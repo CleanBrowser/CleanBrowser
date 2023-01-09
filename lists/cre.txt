@@ -1,5 +1,6 @@
 https://safe.duckduckgo.com&jsfalse&pictrue
 https://mail.google.com&jstrue&pictrue
+https://chat.google.com&jstrue&pictrue
 https://weather.gov&jstrue&pictrue
 https://weather.gov/dvn/&jstrue&pictrue
 https://forecast.weather.gov/MapClick.php?lat=42.47136500000005&lon=-91.88989499999997&jstrue&pictrue
