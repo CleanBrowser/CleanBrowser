@@ -147,6 +147,7 @@ outlook.com
 cisco.com
 drive.google.com
 accounts.google.com
+hangouts.google.com
 googleusercontent.com
 authy.com
 chrt.fm
