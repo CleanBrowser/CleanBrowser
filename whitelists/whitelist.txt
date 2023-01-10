@@ -168,6 +168,8 @@ fidelity.com
 investor.vanguard.com
 foxbusiness.com/category/stocks
 us.etrade.com/home
+///////////jobs/////////////
+collinsaerospace.com
 ///////////cars/////////////
 cars.com
 carmax.com
