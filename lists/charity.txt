@@ -8,7 +8,6 @@ https://founders.org/library/1689-confession/&jstrue&pictrue
 https://gty.org&jstrue&pictrue
 https://feeds.buzzsprout.com/1853108.rss&jstrue&pictrue
 https://youtu.be/TCSUKIhjevo
-https://www.youtube.com/playlist?list=PLw8HspeHTBxHmifu4-PAqWhJHCH0iZwSt
 https://youtube.com/playlist?list=PLw8HspeHTBxH8G2bBxmGlKH3oqhG439bz
 https://youtube.com/playlist?list=OLAK5uy_l0ZJj2zvJCb6N4AYVm6oIN7IBQzcxRIGo
 https://youtube.com/playlist?list=OLAK5uy_lzosonsZyLhF-tCpsfGiyvO312iQXFbsY
@@ -36,3 +35,4 @@ https://youtube.com/playlist?list=OLAK5uy_ltg7CtD-bwfxA1HUDFZ1hSqLTkxKc8sqg
 https://youtube.com/playlist?list=OLAK5uy_kpfDZm8WYDSscAFwbNqjd2-WsSYCOQ_V4
 https://youtube.com/playlist?list=PLwrcDwHxz9toCl4Xpzfu7Q-aAiP8rOrF4&si=0MalKlFVyEl2LO3N
 https://youtube.com/playlist?list=PLw8HspeHTBxHmifu4-PAqWhJHCH0iZwSt
+https://youtube.com/playlist?list=PLw8HspeHTBxHcWqBcNaEUC9Xw6NLYuEx6
